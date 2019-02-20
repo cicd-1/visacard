@@ -1,6 +1,6 @@
 node(){
   
-  stage(){
+  stage("1"){
   }
 
   stage(){
